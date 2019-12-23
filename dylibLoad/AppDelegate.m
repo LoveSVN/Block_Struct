@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-#import <dlfcn.h>
+
 #import "CDBlockHeader.h"
 
 @interface AppDelegate ()

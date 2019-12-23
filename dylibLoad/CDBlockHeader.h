@@ -6,6 +6,7 @@
 //  Copyright © 2019 张晓亮. All rights reserved.
 //
 
+#import <dlfcn.h>
 #ifndef CDBlockHeader_h
 #define CDBlockHeader_h
 struct CDBlockDescriptor {
